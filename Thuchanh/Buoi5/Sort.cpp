@@ -1,5 +1,3 @@
-// Họ và tên: Trần Nhựt Linh
-// Buổi 05 - Bài 02
 #include <iostream>
 #include <time.h>
 #include <stdlib.h>
