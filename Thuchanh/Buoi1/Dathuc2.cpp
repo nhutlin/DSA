@@ -1,5 +1,3 @@
-//Họ và tên: Trần Nhựt Linh
-//Buổi 01 - Bai 02
 #include <iostream>
 #include <stdlib.h>
 #include <time.h>
