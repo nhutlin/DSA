@@ -1,5 +1,3 @@
-// Họ và tên: Trần Nhựt Linh
-// Buoi 02 - Bai 01 - Cơ bản
 #include <iostream>
 #include <stdlib.h>
 #include <time.h>
