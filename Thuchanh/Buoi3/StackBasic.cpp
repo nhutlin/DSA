@@ -1,5 +1,3 @@
-//Họ và tên: Trần Nhựt Linh
-//Buổi 03 - Bài 01
 #include <iostream>
 using namespace std;
 struct NODE {
