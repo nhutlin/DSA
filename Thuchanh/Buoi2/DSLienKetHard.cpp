@@ -1,5 +1,3 @@
-// Họ và tên: Trần Nhựt Linh
-// Buổi 02 - Bài 01 - Nâng cao
 #include <iostream>
 #include <stdlib.h>
 #include <time.h>
